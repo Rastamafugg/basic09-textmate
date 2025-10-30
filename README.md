@@ -8,7 +8,7 @@ Provides highlighting for Basic09 source code.
 
 ## Known Issues
 
-variables with a trailing $ will not have the $ correctly highlighted as part of the name.
+No known issues
 
 ## Release Notes
 
