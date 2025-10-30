@@ -2,7 +2,11 @@
   "name": "basic09",
   "displayName": "Basic09",
   "description": "Basic09 language for OS9 EOU",
-  "version": "0.0.1",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Rastamafugg/basic09-textmate.git"
+  },
   "engines": {
     "vscode": "^1.105.0"
   },
