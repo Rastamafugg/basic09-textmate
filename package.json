@@ -1,0 +1,25 @@
+{
+  "name": "basic09",
+  "displayName": "Basic09",
+  "description": "Basic09 language for OS9 EOU",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.105.0"
+  },
+  "categories": [
+    "Programming Languages"
+  ],
+  "contributes": {
+    "languages": [{
+      "id": "basic09",
+      "aliases": ["Basic09", "basic09"],
+      "extensions": [".b09"],
+      "configuration": "./language-configuration.json"
+    }],
+    "grammars": [{
+      "language": "basic09",
+      "scopeName": "source.basic09",
+      "path": "./syntaxes/basic09.tmLanguage.json"
+    }]
+  }
+}
